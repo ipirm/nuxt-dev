@@ -1,0 +1,103 @@
+@import '../helpers/sass/starter.scss';
+@import '../helpers/sass/normalize.scss';
+@import '../helpers/sass/mixins.scss';
+
+@import '../../../node_modules/slick-carousel/slick/slick.scss';
+.slick-slider {
+    height: 100%;
+}
+.slick-list {
+    width: 100%;
+}
+.slick-slide > div {
+    width: 100%;
+    height: 100%;
+}
+
+$font-dir: '../assets/fonts';
+
+
+@include font-face('Museo', '#{$font-dir}/Museo/MuseoSansCyrl-100', 100, normal, woff woff2);
+@include font-face('Museo', '#{$font-dir}/Museo/MuseoSansCyrl-300', 300, normal, woff woff2);
+@include font-face('Museo', '#{$font-dir}/Museo/MuseoSansCyrl-500', 500, normal, woff woff2);
+@include font-face('Museo', '#{$font-dir}/Museo/MuseoSansCyrl-700', 700, normal, woff woff2);
+@include font-face('Museo', '#{$font-dir}/Museo/MuseoSansCyrl-900', 900, normal, woff woff2);
+
+@include font-face('Didot', '#{$font-dir}/Didot/Didot', 100, normal, woff woff2);
+@include font-face('Didot', '#{$font-dir}/Didot/Didot-Bold', bold, normal, woff woff2);
+@include font-face('DidotNum', '#{$font-dir}/Didot/Didot-Bold-03', bold, normal, ttf);
+
+#app {
+    min-width: 100%;
+    overflow: hidden;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.bg-gray {
+    background-color: #F7F7F7;
+}
+
+p {
+    margin: 25px 0;
+}
+
+body {
+    // font: 16px/24px 'Circe', Arial, Helvetica, sans-serif;
+    color: #818181;
+    transition: opacity .2s ease;
+
+    &.hide {
+        opacity: 0;
+    }
+}
+
+button {
+    border: none;
+    border-radius: 0;
+    box-shadow: none;
+    -webkit-appearance: none;
+    cursor: pointer;
+    outline: none;
+}
+
+input {
+    border: none;
+    outline: none;
+    border-radius: 0;
+    box-shadow: none;
+    -webkit-appearance: none;
+}
+
+#app {
+    min-height: 100vh;
+}
+
+.box {
+    // min-height: calc(100vh - 302px);
+}
+
+/*.fade-enter-active, .fade-leave-active {
+    opacity: 1 !important;
+    transition: opacity 1s;
+    .page {
+        transition: opacity 1s;
+        opacity: 1;
+    }
+}*/
+
+/*.fade-enter, .fade-leave-to {
+    opacity: 1 !important;
+    .page {
+        opacity: 0;
+    }
+}*/
+
+.component-fade-enter-active, .component-fade-leave-active {
+    transition: opacity 0.3s ease;
+}
+.component-fade-enter, .component-fade-leave-to {
+    opacity: 0;
+}

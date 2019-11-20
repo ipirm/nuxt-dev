@@ -1,0 +1,429 @@
+{
+    "meta": {
+        "base_title": " — інтернет-магазин Villa",
+        "category_title": " — ціни в інтернет-магазині Villa",
+        "subcategory_title": " від інтернет-магазину Villa",
+        "home_title": "Інтернет-магазин Villa",
+        "product_title": " — ціни в інтернет-магазині Villa",
+        "base_description": ". Ексклюзивні предмети декору, освітлення, текстилю, меблів для дому. Доставка по Україні.",
+        "home_description": "Ексклюзивні предмети декору, освітлення, текстилю, меблів для дому. Доставка по Україні."
+    },
+    "tip": {
+        "text1":"Безкоштовна доставка"
+    },
+    "header": {
+        "menu": {
+            "open": "Меню",
+            "close": "Закрити",
+            "about": "Про нас",
+            "help": "Допомога",
+            "store": "Магазини",
+            "featured_brands": "ОСОБЛИВІ БРЕНДИ",
+            "az_brands": "А-Я Бренди",
+            "categories": "Категорії",
+            "info": "Інформація",
+            "cat_new_1": "Свічки та аромати",
+            "cat_new_2": "Сервірування стола",
+            "cat_sale_1": "Свічки",
+            "cat_sale_2": "Аромати",
+            "cat_candles_1": "Свічки",
+            "cat_candles_2": "Аромати",
+            "cat_decorative_1": "Вази",
+            "cat_decorative_2": "Фоторамки",
+            "cat_tabletop_1": "Предмети сервірування",
+            "cat_tabletop_2": "Скло/Кришталь",
+            "cat_textiles_1": "Декоративні подушки",
+            "cat_textiles_2": "Постільна білизна",
+            "cat_art_1": "Архітектура",
+            "cat_art_2": "Колекції"
+        },
+        "search": {
+            "goods_with_this_word": "ТОВАРИ З ЦІМ СЛОВОМ",
+            "all_results": "Всі результати"
+        },
+        "nav": {
+            "newin": "Нові надходження",
+            "sale": "Розпродаж",
+            "brands": "Бренди"
+        },
+        "login": {
+            "label": "Увійти",
+            "dropdown": {
+                "item1": "Інформація",
+                "item2": "Побажання",
+                "item3": "Замовлення",
+                "item4": "Вихід",
+                "item5": "Вихід"
+            }
+        },
+        "cart": {
+            "label": "Кошик"
+        }
+    },
+    "poster": {
+        "show_more": "Дізнатися більше"
+    },
+    "popular": {
+        "show_more": "Детальніше"
+    },
+    "subscribe": {
+        "title": "Зареєструйтеся для ексклюзивів",
+        "subtitle": "Підпишіться зараз і отримайте 10% від нового одягу колекції",
+        "placeholder": "Електронна пошта",
+        "submit": "Підписатися",
+        "success": "Вітаємо! Ви підписані на розсилку новин",
+        "email_error": "E-mail введений некоректно",
+        "wait": "Wait a bit."
+    },
+    "category": {
+        "showing": "Показано",
+        "of": "з",
+        "results": "результатів",
+        "for": "для",
+        "pieces": "товарів",
+        "see_all": "Очистить",
+        "show_all": "Показати всi",
+        "filters": {
+            "filters": "Фільтри",
+            "order_by": "Сортувати за",
+            "show": "Показати",
+            "you_choosed": "Ви обрали",
+            "category": "Категорія",
+            "all_products": "Всi товари",
+            "all_things": "Всi предмети",
+            "brand": "Бренд",
+            "color": "Колiр",
+            "size": "Розмiр",
+            "collection": "Коллекція",
+            "popularity": "Популярність",
+            "low_price": "Низька ціна",
+            "high_price": "Висока ціна",
+            "alphabetically": "За алфавітом",
+            "all_brands": "Всi бренди",
+            "slide_up": "Згорнути",
+            "all_colors": "Всi кольори",
+            "all_sizes": "Всi розміри",
+            "all_collections": "Всi коллекції",
+            "all_categories": "Всi категорії",
+            "brands_selected": "Всi бренди обрані",
+            "colors_selected": "Всi кольори обрані",
+            "sizes_selected": "Всi розміри обрані",
+            "collections_selected": "Всi колекції обрані"
+        }
+    },
+    "product": {
+        "uah": "ГРН",
+        "more": "Детальніше",
+        "less": "Згорнуть",
+        "availability": "Наявність товару",
+        "availability_in_stores": "Наявність у магазинах:",
+        "add_to_wishlist": "Додати до списку бажань",
+        "add_to_cart": "Додати в кошик",
+        "details": "Деталі",
+        "need_more_info": "НЕОБХІДНІ ДАНІ?",
+        "orders_shipping": "Замовлення та доставка",
+        "returns_refunds": "Повернення коштів",
+        "duties_taxes": "Обов'язки та податки",
+        "remove_from_wishlist": "Видалити з списка бажань",
+        "back": "Назад",
+        "art": "Арт.",
+        "composition": "Склад",
+        "size": "Розмір",
+        "all_categories": "Всі категорії"
+    },
+    "login": {
+        "forgot": {
+            "title": "Request to reset your password",
+            "thanks": "Thanks for submitting your email address. Once your email address is successfully located in our system, we will send you an email with the information needed to reset your password. The email might take a couple of minutes to reach your account. Please check your junk mail to ensure you receive it.",
+            "label": "Provide your account email address to receive an email to reset your password.",
+            "button_request": "Request",
+            "button_ok": "Ok",
+            "back": "Back to login"
+        },
+        "form": {
+            "sign_in": "УВІЙТИ",
+            "sign_up": "Зареєструватися",
+            "login_with_email": "Увійти за допомогою email:",
+            "email": "E-mail",
+            "password": "Пароль",
+            "firstname": "Ім'я",
+            "lastname": "Прізвище",
+            "telephone": "Телефон",
+            "confirm_password": "Підтвердіть пароль",
+            "button_login": "Увійти",
+            "remember_me": "Запам'ятати мене",
+            "forgot_password": "Я забув пароль",
+            "register_with_email": "Зареєструватися за допомогою email:",
+            "checkbox_text": "Я хочу отримувати пропозиції, рекламні акції та інші комерційні повідомлення.",
+            "checkbox_text_2": "Створюючи акаунт, я погоджуюся з <a target=_blank href=https://villa.ua/ru/info/terms> Умовами надання послуг </a> і <a target = _blank href = https: / /villa.ua/info/privacy-policy> Політикою конфіденційності. </a> ","button_register": "Register",
+            "login_with": "Увійти через соціальні мережі:",
+            "register_with": "Зареєструватися через соціальні мережи:"
+        }
+    },
+    "cart": {
+        "title": "Кошик",
+        "item_price": "Ціна товару",
+        "item_qty": "Кількість",
+        "item_total_price": "Загальна сума",
+        "size": "Розмiр:",
+        "color": "Колiр:",
+        "add_wrap": "Подарункова обгортка",
+        "remove": "Видалити",
+        "promocode": "Маєте промокод?",
+        "enter_promocode": "Введіть свій промокод",
+        "apply": "Застосовувати",
+        "checkout": "Оформлення замовлення",
+        "continue_shopping": "Продовжити покупки",
+        "shipping": "Доставка",
+        "total": "Усього:",
+        "subtotal": "Підсумок",
+        "villa_discount": "Клубна знижка VILLA",
+        "gift_wrap": "Подарункова обгортка",
+        "empty": {
+            "title": "Ваш кошик порожній",
+            "text": "Перейдіть до магазину та додайте товари до кошика",
+            "in_store": "У магазин"
+        },
+        "club": {
+            "title": "Ви член клубу VILLA?",
+            "sign": "Увійдіть для знижки"
+        }
+    },
+    "checkout": {
+        "back_to_checkout": "Повернутися до оформлення замовлення",
+        "back_to_cart": "Повернутися до кошика",
+        "step1": "КРОК 1 - ІНФОРМАЦІЯ ПРО КЛІЄНТА",
+        "step2": "КРОК 2 - ДОСТАВКА",
+        "firstname": "Ім'я",
+        "lastname": "Прізвище",
+        "email": "E-mail",
+        "phone": "Телефон",
+        "street": "Вулиця",
+        "house": "Будинок",
+        "apartment": "Квартира",
+        "city": "Місто",
+        "department": "Відділення",
+        "make_payment": "Зробити платіж",
+        "processing": "Обробка ...",
+        "thanks": {
+            "title": "Дякуємо за замовлення",
+            "text": "Дякуємо за Ваше замовлення, наш менеджер зв'яжеться з Вами найближчим часом.",
+            "back": "Повернутися до магазину"
+        },
+        "pickup": "Самовивіз",
+        "courier": "Кур'єром по Києву",
+        "newpost_courier": "Нова пошта кур'єром",
+        "newpost_department": "Нова пошта в відділенні"
+    },
+    "account": {
+        "info": {
+            "title": "Інформація",
+            "account_info": "Інформація про аккаунт",
+            "user": "Я користувач дисконтного клубу",
+            "password_settings": "НАЛАШТУВАННЯ ПАРОЛЯ",
+            "current_password": "Поточний пароль",
+            "change_password": "Змінити пароль?",
+            "close": "Закрити",
+            "new_password": "Новий пароль",
+            "confirm_password": "Підтвердьте пароль",
+            "save_password": "Зберегти пароль",
+            "shipping_info": "ІНФОРМАЦІЯ ПРО ДОСТАВКУ",
+            "address": "Адреса",
+            "city": "Місто",
+            "zip": "ЗІП код",
+            "country": "Країна",
+            "save": "Зберегти"
+        },
+        "wishes": {
+            "title": "Мої побажання",
+            "add_to_bag": "Додати в кошик",
+            "edit": "Редагувати",
+            "remove": "Видалити з списку побажань"
+        },
+        "orders": {
+            "title": "Мої замовлення",
+            "price": "Ціна",
+            "order": "ЗАМОВЛЕННЯ",
+            "delivered": "Доставлено",
+            "shipping_address": "АДРЕСА ДОСТАВКИ",
+            "city_short": "м.",
+            "shipping_type": "ТИП ДОСТАВКИ"
+        }
+    },
+    "footer": {
+        "help": {
+            "item1": "Гарантія та повернення",
+            "item2": "Доставка та оплата",
+            "item3": "Якість і безпека",
+            "item4": "Статус замовлення",
+            "item5": "Центр підтримки"
+        },
+        "info": {
+            "item1": "Програма Лояльності",
+            "item2": "Оплата",
+            "item3": "Доставка",
+            "item4": "Питання - відповіді",
+            "item10": "Обмін та повернення",
+            "item5": "Про нас",
+            "item6": "Магазини",
+            "item7": "Політика конфіденційності",
+            "item8": "Умови використання"
+        },
+        "info_title": "Информація",
+        "about": {
+            "item1": "Про нас",
+            "item2": "Блог",
+            "item3": "Кар'єра"
+        },
+        "store": {
+            "item1": "Знайти магазин",
+            "item2": "Подарунковий сертифікат"
+        },
+        "follow_us": "СЛІДУЙ ЗА НАМИ",
+        "download_our_app": "Додатки",
+        "we_accept": "Ми приймаємо"
+    },
+    "home": {
+        "poster": {
+            "title": "Welcome",
+            "introduction": "This is an introduction in English."
+        },
+        "category": {
+            "title": "Категорії",
+            "description": "This is an introduction in English.",
+            "view_more": "Детальніше"
+        },
+        "about": {
+            "title": "Наші добірки",
+            "description": "Підкресліть атмосферу будь-якого простору",
+            "show_now": "Придбати"
+        },
+        "popular": {
+            "title": "Бестселери",
+            "description": ""
+        },
+        "instagram": {
+            "title": "Наш Іnstagram",
+            "description": "Всі наші кампанії, останні тенденції, наші нові колекції та все, що ми поділяємо на Instagram, можна знайти в цій новій дошці. Залишайтеся з нами!"
+        },
+        "subscribe": {
+            "title": "Підписатися на розсилку",
+            "description": "Підпишіться на нашу розсилку і будьте в курсі спеціальних пропозицій!"
+        }
+    },
+    "about": {
+      "title": "About"
+    },
+    "notifications": {
+        "added_to_wishlist": "Додано до списку бажань",
+        "added_to_the_bag": "Додано до кошика",
+        "removed_from_wishlist": "Видалено із списку бажань",
+        "success": "Успіх!",
+        "data_saved": "Дані збережені.",
+        "error": "Виникла помилка!",
+        "error_promocode": "Невірний промокод."
+    },
+    "stores__info": {
+        "title":"Магазини",
+        "subtitle":"Наші магазини в Україні",
+        "tabs":["КИЇВ", "ОДЕСА"]
+    },
+    "instagram": {
+        "hours": "годин"
+    },
+    "stores": [
+        {
+            "id":"n00000001",
+            "name":"VILLA FURNITURE & DESIGN BUREAU",
+            "address":"ВУЛ. ШПАКА 2 КИЇВ, 03113, УКРАЇНА",
+            "position": {"lat": 50.4021368, "lng": 30.2525105},
+            "cityCode":0,
+            "phones": [
+                "+380444556412",
+                "+380444569592"
+            ]
+        },
+        {
+            "id":"n00000002",
+            "name":"VILLA TEXTILE & DECORATION",
+            "address":"ВУЛ. Б.ХМЕЛЬНИЦЬКОГО 86 КИЇВ, 01054, УКРАЇНА",
+            "position": {"lat": 50.4480252, "lng": 30.4977643},
+            "cityCode":0,
+            "phones": [
+                "+380442357000",
+                "+380442357377"
+            ]
+        },
+        {
+            "id":"000000001",
+            "name":"RALPH LAUREN HOME",
+            "address":"ВУЛ. МОСКОВСЬКА, 37/2 КИЇВ, 01015, УКРАЇНА",
+            "position": {"lat": 50.4338929, "lng": 30.5433677},
+            "cityCode":0,
+            "phones": [
+                "+380442888000",
+                "+380442888999"
+            ]
+        },
+        {
+            "id":"n000000005",
+            "name":"RALPH LAUREN HOME",
+            "address":"ЦУМ, 5 ПОВЕРХ ВУЛ. ХРЕЩАТИК, 38 КИЇВ, 01001, УКРАЇНА",
+            "position": {"lat": 50.4450653, "lng": 30.5184283},
+            "cityCode":0,
+            "phones": [
+                "+380967208280"
+            ]
+        },
+        {
+            "id":"000000005",
+            "name":"ЦУМ",
+            "address":"ЦУМ, 5 ПОВЕРХ ВУЛ. ХРЕЩАТИК, 38 КИЇВ, 01001, УКРАЇНА",
+            "position": {"lat": 50.4450653, "lng": 30.5184283},
+            "cityCode":0,
+            "phones": [
+                "+380967208280"
+            ]
+        },
+        {
+            "id":"n000000006",
+            "name":"VILLA HOME FRAGRANCE",
+            "address":"ЦУМ, 5 ПОВЕРХ ВУЛ. ХРЕЩАТИК, 38 КИЇВ, 01001, УКРАЇНА",
+            "position": {"lat": 50.4450653, "lng": 30.5184283},
+            "cityCode":0,
+            "phones": [
+                "+380967208280"
+            ]
+        },
+        {
+            "id":"000000003",
+            "name":"RALPH LAUREN HOME",
+            "address":"САДИ ПЕРЕМОГИ, 4 ПОВЕРХ ПЛ. 10 КВІТНЯ ОДЕСА, 65009, УКРАЇНА",
+            "position": {"lat": 46.4398273, "lng": 30.7558662},
+            "cityCode":1,
+            "phones": [
+                "+380487405944"
+            ]
+        },
+        {
+            "id":"000000006",
+            "name":"RALPH LAUREN HOME & DR. VRANJES",
+            "address":"ВУЛ. КАТЕРИНИНСЬКА, 20 ОДЕСА, 65026, УКРАЇНА",
+            "position": {"lat": 46.4830396, "lng": 30.7358954},
+            "cityCode":1,
+            "phones": [
+                "+380487013713"
+            ]
+        },
+        {
+            "id":"000000007",
+            "name":"DR. VRANJES",
+            "address":"ГУЛІВЕР, 1 ПОВЕРХ СПОРТИВНА ПЛОЩА, 1А КИЇВ, 01023, УКРАЇНА",
+            "position": {"lat": 50.4388701, "lng": 30.5208778},
+            "cityCode":0,
+            "phones": [
+                "+380681805940"
+            ]
+        }
+    ]
+}

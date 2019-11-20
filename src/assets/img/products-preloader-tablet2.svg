@@ -1,0 +1,44 @@
+<svg width="720" height="2296" viewBox="0 0 720 2296" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect clip-path="url(#77fudlf7tbo)" x="0" y="0" width="720" height="2296" style="fill: url(&quot;#cb59ner01oa&quot;);"></rect>
+    <defs>
+        <clipPath id="77fudlf7tbo">
+            <rect opacity="0.2" y="74" width="720" height="1" fill="#C4C4C4"/>
+            <rect x="8" width="128" height="23" rx="5" fill="#F7F7F7"/>
+            <rect x="8" y="48" width="88" height="14" rx="5" fill="#F7F7F7"/>
+            <rect x="565" y="48" width="66" height="14" rx="5" fill="#F7F7F7"/>
+            <rect x="651" y="48" width="66" height="14" rx="5" fill="#F7F7F7"/>
+            <rect x="97" y="541" width="160" height="14" rx="5" fill="#F7F7F7"/>
+            <rect x="80" y="566" width="194" height="14" rx="5" fill="#F7F7F7"/>
+            <rect x="142" y="596" width="70" height="14" rx="5" fill="#F7F7F7"/>
+            <rect x="8" y="107" width="340" height="410" rx="5" fill="#F7F7F7"/>
+            <rect x="461" y="541" width="160" height="14" rx="5" fill="#F7F7F7"/>
+            <rect x="444" y="566" width="194" height="14" rx="5" fill="#F7F7F7"/>
+            <rect x="506" y="596" width="70" height="14" rx="5" fill="#F7F7F7"/>
+            <rect x="372" y="107" width="340" height="410" rx="5" fill="#F7F7F7"/>
+            <rect x="97" y="1083" width="160" height="14" rx="5" fill="#F7F7F7"/>
+            <rect x="80" y="1108" width="194" height="14" rx="5" fill="#F7F7F7"/>
+            <rect x="142" y="1138" width="70" height="14" rx="5" fill="#F7F7F7"/>
+            <rect x="8" y="649" width="340" height="410" rx="5" fill="#F7F7F7"/>
+            <rect x="461" y="1083" width="160" height="14" rx="5" fill="#F7F7F7"/>
+            <rect x="444" y="1108" width="194" height="14" rx="5" fill="#F7F7F7"/>
+            <rect x="506" y="1138" width="70" height="14" rx="5" fill="#F7F7F7"/>
+            <rect x="372" y="649" width="340" height="410" rx="5" fill="#F7F7F7"/>
+            <rect x="97" y="1625" width="160" height="14" rx="5" fill="#F7F7F7"/>
+            <rect x="80" y="1650" width="194" height="14" rx="5" fill="#F7F7F7"/>
+            <rect x="142" y="1680" width="70" height="14" rx="5" fill="#F7F7F7"/>
+            <rect x="8" y="1191" width="340" height="410" rx="5" fill="#F7F7F7"/>
+            <rect x="461" y="1625" width="160" height="14" rx="5" fill="#F7F7F7"/>
+            <rect x="444" y="1650" width="194" height="14" rx="5" fill="#F7F7F7"/>
+            <rect x="506" y="1680" width="70" height="14" rx="5" fill="#F7F7F7"/>
+            <rect x="372" y="1191" width="340" height="410" rx="5" fill="#F7F7F7"/>
+            <rect x="97" y="2167" width="160" height="14" rx="5" fill="#F7F7F7"/>
+            <rect x="80" y="2192" width="194" height="14" rx="5" fill="#F7F7F7"/>
+            <rect x="142" y="2222" width="70" height="14" rx="5" fill="#F7F7F7"/>
+            <rect x="8" y="1733" width="340" height="410" rx="5" fill="#F7F7F7"/>
+            <rect x="461" y="2167" width="160" height="14" rx="5" fill="#F7F7F7"/>
+            <rect x="444" y="2192" width="194" height="14" rx="5" fill="#F7F7F7"/>
+            <rect x="506" y="2222" width="70" height="14" rx="5" fill="#F7F7F7"/>
+            <rect x="372" y="1733" width="340" height="410" rx="5" fill="#F7F7F7"/>
+            <rect x="216" y="2282" width="288" height="14" rx="5" fill="#F7F7F7"/>
+        </clipPath><linearGradient id="cb59ner01oa"><stop offset="0.675228" stop-color="#f9f9f9"><animate attributeName="offset" values="-2; 1" dur="2s" repeatCount="indefinite"></animate></stop><stop offset="1.17523" stop-color="#ecebeb"><animate attributeName="offset" values="-1.5; 1.5" dur="2s" repeatCount="indefinite"></animate></stop><stop offset="1.67523" stop-color="#f9f9f9"><animate attributeName="offset" values="-1; 2" dur="2s" repeatCount="indefinite"></animate></stop></linearGradient></defs>
+</svg>

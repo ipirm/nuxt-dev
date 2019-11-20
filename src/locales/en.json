@@ -1,0 +1,429 @@
+{
+    "meta": {
+        "base_title": " — online-shop Villa",
+        "category_title": " — online-shop Villa",
+        "subcategory_title": " — online-shop Villa",
+        "home_title": "Online-shop Villa",
+        "product_title": " — online-shop Villa",
+        "base_description": "Exclusive decor, lighting, textiles, furniture for home.",
+        "home_description": "Exclusive decor, lighting, textiles, furniture for home."
+    },
+    "tip": {
+        "text1":"Free shipping"
+    },
+    "header": {
+        "menu": {
+            "open": "Menu",
+            "close": "Close",
+            "about": "About",
+            "help": "Help",
+            "store": "Stores",
+            "featured_brands": "Featured brands",
+            "az_brands": "A-Z brands",
+            "categories": "Categories",
+            "info": "Info",
+            "cat_new_1": "Candles and Home Fragrance",
+            "cat_new_2": "Tabletop",
+            "cat_sale_1": "Candles",
+            "cat_sale_2": "Home Fragrance",
+            "cat_candles_1": "Candles",
+            "cat_candles_2": "Home Fragrance",
+            "cat_decorative_1": "Vases",
+            "cat_decorative_2": "Frames",
+            "cat_tabletop_1": "Serveware",
+            "cat_tabletop_2": "Glassware",
+            "cat_textiles_1": "Decorative pillows",
+            "cat_textiles_2": "Bed Linen",
+            "cat_art_1": "Architecture",
+            "cat_art_2": "Themed сollection"
+        },
+        "search": {
+            "goods_with_this_word": "ITEMS WITH THIS WORD",
+            "all_results": "ALL RESULTS"
+        },
+        "nav": {
+            "newin": "New in",
+            "sale": "Sale",
+            "brands": "Brands"
+        },
+        "login": {
+            "label": "Login",
+            "dropdown": {
+                "item1": "ACCOUNT INFO",
+                "item2": "WISHLIST",
+                "item3": "MY ORDERS",
+                "item4": "LOG OUT"
+            }
+        },
+        "cart": {
+            "label": "My bag"
+        }
+    },
+    "poster": {
+        "show_more": "DISCOVER MORE"
+    },
+    "popular": {
+        "show_more": "Show more"
+    },
+    "subscribe": {
+        "title": "Sign up for exclusives",
+        "subtitle": "Subscribe to our newsletter and stay updated on the special offers!",
+        "placeholder": "Your e-mail",
+        "submit": "SUBSCRIBE",
+        "success": "Congratulations! You are subscribed to the newsletter",
+        "email_error": "Enter email",
+        "wait": "Wait a bit."
+    },
+    "category": {
+        "showing": "Showing",
+        "of": "of",
+        "results": "results",
+        "for": "for",
+        "see_all": "Clear all",
+        "pieces": "pieces",
+        "show_all": "Show all",
+        "filters": {
+            "filters": "Filters",
+            "order_by": "Sort by",
+            "show": "Show",
+            "you_choosed": "You choosed",
+            "category": "Category",
+            "all_products": "All products",
+            "all_things": "All categories",
+            "brand": "Brand",
+            "color": "Color",
+            "size": "Size",
+            "collection": "Collection",
+            "popularity": "Popularity",
+            "low_price": "Low price",
+            "high_price": "High price",
+            "alphabetically": "Alphabetical",
+            "all_brands": "All brands",
+            "slide_up": "Show less",
+            "all_colors": "All colors",
+            "all_sizes": "All sizes",
+            "all_collections": "All collections",
+            "all_categories": "All categories",
+            "brands_selected": "All brands are selected",
+            "colors_selected": "All colors are selected",
+            "sizes_selected": "All sizes are selected",
+            "collections_selected": "All collections are selected"
+        }
+    },
+    "product": {
+        "uah": "UAH",
+        "more": "More details",
+        "less": "Less details",
+        "availability": "In stock",
+        "availability_in_stores": "In stock:",
+        "add_to_wishlist": "Add to wishlist",
+        "add_to_cart": "Add to bag",
+        "details": "Details",
+        "need_more_info": "NEED MORE INFORMATION?",
+        "orders_shipping": "Orders & Shipping",
+        "returns_refunds": "Returns & Refunds",
+        "duties_taxes": "Duties & Taxes",
+        "remove_from_wishlist": "Remove from wishlist",
+        "back": "Back",
+        "art": "Art.",
+        "composition": "Composition",
+        "size": "Size",
+        "all_categories": "All categories"
+    },
+    "login": {
+        "forgot": {
+            "title": "Request to reset your password",
+            "thanks": "Thanks for submitting your email address. Once your email address is successfully located in our system, we will send you an email with the information needed to reset your password. The email might take a couple of minutes to reach your account. Please check your junk mail to ensure you receive it.",
+            "label": "Provide your account email address to receive an email to reset your password.",
+            "button_request": "Request",
+            "button_ok": "Ok",
+            "back": "Back to login"
+        },
+        "form": {
+            "sign_in": "SIGN IN",
+            "sign_up": "SIGN UP",
+            "login_with_email": "Login with email:",
+            "email": "E-mail",
+            "password": "Password",
+            "firstname": "First name",
+            "lastname": "Last name",
+            "telephone": "Phone",
+            "confirm_password": "Confirm password",
+            "button_login": "Log in",
+            "remember_me": "Remember me",
+            "forgot_password": "Forgot password?",
+            "register_with_email": "Register with email:",
+            "checkbox_text": "I want to receive offers, promotions and other commercial messages.",
+            "checkbox_text_2": "By creating an account, I agree to <a target=_blank href=https://villa.ua/ru/info/terms>Terms of Service</a> and <a target=_blank href=https://villa.ua/info/privacy-policy>Privacy Policy.</a>",
+            "button_register": "Register",
+            "login_with": "Login with social networks:",
+            "register_with": "Register with social networks:"
+        }
+    },
+    "cart": {
+        "title": "My bag",
+        "item_price": "Item price",
+        "item_qty": "Qty.",
+        "item_total_price": "Total price",
+        "size": "Size:",
+        "color": "Color:",
+        "add_wrap": "Add wrap",
+        "remove": "Remove",
+        "promocode": "Do you have promocode?",
+        "enter_promocode": "Enter your promocode",
+        "apply": "Apply",
+        "checkout": "Checkout",
+        "continue_shopping": "Continue shopping",
+        "shipping": "Shipping",
+        "total": "TOTAL:",
+        "subtotal": "Subtotal",
+        "villa_discount": "VILLA club discount",
+        "gift_wrap": "Gift wrap",
+        "empty": {
+            "title": "Your bag is empty",
+            "text": "Go to the store and add the item to the bag",
+            "in_store": "To store"
+        },
+        "club": {
+            "title": "Are you a member of the VILLA club?",
+            "sign": "SIGN IN FOR DISCOUNT"
+        }
+    },
+    "checkout": {
+        "back_to_checkout": "Back to checkout",
+        "back_to_cart": "Back to cart",
+        "step1": "STEP 1 - CUSTOMER INFO",
+        "step2": "STEP 2 - SHIPPING",
+        "firstname": "First name",
+        "lastname": "Last name",
+        "email": "E-mail",
+        "phone": "Phone",
+        "street": "Street",
+        "house": "House",
+        "apartment": "Apartment",
+        "city": "City",
+        "department": "Department",
+        "make_payment": "Make payment",
+        "processing": "Processing ...",
+        "thanks": {
+            "title": "Thanks for you order",
+            "text": "Thank you for your order, our manager will contact you shortly.",
+            "back": "Back to the store"
+        },
+        "pickup": "Pick up in store",
+        "courier": "By a courier in Kyiv",
+        "newpost_courier": "Nova Poshta by a courier",
+        "newpost_department": "Nova Poshta department"
+    },
+    "account": {
+        "info": {
+            "title": "Info",
+            "account_info": "Account information",
+            "user": "I am user of VILLA Discount Club",
+            "password_settings": "Password settings",
+            "current_password": "Current password",
+            "change_password": "Change password?",
+            "close": "Close",
+            "new_password": "New password",
+            "confirm_password": "Confirm password",
+            "save_password": "Save password",
+            "shipping_info": "Shipping info",
+            "address": "Address",
+            "city": "City",
+            "zip": "Zipcode",
+            "country": "Country",
+            "save": "Save"
+        },
+        "wishes": {
+            "title": "My wishlist",
+            "add_to_bag": "Add to bag",
+            "edit": "Edit",
+            "remove": "Remove"
+        },
+        "orders": {
+            "title": "My orders",
+            "price": "Price",
+            "order": "Order",
+            "delivered": "Delivered",
+            "shipping_address": "Shipping address",
+            "city_short": "",
+            "shipping_type": "Shipping type"
+        }
+    },
+    "footer": {
+        "help": {
+            "item1": "Warranty & refunds",
+            "item2": "Shipping and billing",
+            "item3": "Quality",
+            "item4": "Track your order",
+            "item5": "Support 24/7"
+        },
+        "info": {
+            "item1": "Loyalty Program",
+            "item2": "Payment",
+            "item3": "Delivery",
+            "item4": "FAQ",
+            "item10": "Returns & Exchange",
+            "item5": "About",
+            "item6": "Stores",
+            "item7": "Privacy policy",
+            "item8": "Terms of use"
+        },
+        "info_title": "Info",
+        "about": {
+            "item1": "About",
+            "item2": "Blog",
+            "item3": "Careers"
+        },
+        "store": {
+            "item1": "Find a store",
+            "item2": "Gift cards"
+        },
+        "follow_us": "Follow us",
+        "download_our_app": "DOWNLOAD OUR APP",
+        "we_accept": "WE ACCEPT"
+    },
+    "home": {
+        "poster": {
+            "title": "Welcome",
+            "introduction": "This is an introduction in English."
+        },
+        "category": {
+            "title": "Shop by category",
+            "description": "This is an introduction in English.",
+            "view_more": "View more"
+        },
+        "about": {
+            "title": "Discover our selections",
+            "description": "Create the ambience in your space",
+            "show_now": "Shop now"
+        },
+        "popular": {
+            "title": "Popular items",
+            "description": ""
+        },
+        "instagram": {
+            "title": "Best of our Instagram",
+            "description": "All our campaigns, the latest trends, our new collections and everything we share on Instagram can be find in this new board. Stay tuned!"
+        },
+        "subscribe": {
+            "title": "Sign up for exclusives",
+            "description": "Subscribe to our newsletter and stay updated on the special offers!"
+        }
+    },
+    "about": {
+      "title": "About"
+    },
+    "notifications": {
+        "added_to_wishlist": "Added to wish list",
+        "added_to_the_bag": "Added to the bag",
+        "removed_from_wishlist": "Removed from wish list",
+        "success": "Success!",
+        "data_saved": "Data saved.",
+        "error": "Error!",
+        "error_promocode": "Invalid promocode."
+    },
+    "stores__info": {
+        "title":"Stores",
+        "subtitle":"Our stores in Ukraine",
+        "tabs":["KIEV", "ODESA"]
+    },
+    "instagram": {
+        "hours": "hours"
+    },
+    "stores": [
+        {
+            "id":"n00000001",
+            "name":"VILLA FURNITURE & DESIGN BUREAU",
+            "address":"2 SHPAKA STR. KYIV, 03113, UKRAINE",
+            "position": {"lat": 50.4021368, "lng": 30.2525105},
+            "cityCode":0,
+            "phones": [
+                "+380444556412",
+                "+380444569592"
+            ]
+        },
+        {
+            "id":"n00000002",
+            "name":"VILLA TEXTILE & DECORATION",
+            "address":"86 B. KHMELNYTSKOGO STR. KYIV, 01054, UKRAINE",
+            "position": {"lat": 50.4480252, "lng": 30.4977643},
+            "cityCode":0,
+            "phones": [
+                "+380442357000",
+                "+380442357377"
+            ]
+        },
+        {
+            "id":"000000001",
+            "name":"RALPH LAUREN HOME",
+            "address":"37/2 MOSKOVSKA STR. KYIV, 01015, UKRAINE",
+            "position": {"lat": 50.4338929, "lng": 30.5433677},
+            "cityCode":0,
+            "phones": [
+                "+380442888000",
+                "+380442888999"
+            ]
+        },
+        {
+            "id":"n000000005",
+            "name":"RALPH LAUREN HOME",
+            "address":"TSUM, 5 FLOOR 38 KHRESCHATYK STR. KYIV, 01001, UKRAINE",
+            "position": {"lat": 50.4450653, "lng": 30.5184283},
+            "cityCode":0,
+            "phones": [
+                "+380967208280"
+            ]
+        },
+        {
+            "id":"000000005",
+            "name":"TSUM",
+            "address":"TSUM, 5 FLOOR 38 KHRESCHATYK STR. KYIV, 01001, UKRAINE",
+            "position": {"lat": 50.4450653, "lng": 30.5184283},
+            "cityCode":0,
+            "phones": [
+                "+380967208280"
+            ]
+        },
+        {
+            "id":"n000000006",
+            "name":"VILLA HOME FRAGRANCE",
+            "address":"TSUM, 5 FLOOR 38 KHRESCHATYK STR. KYIV, 01001, UKRAINE",
+            "position": {"lat": 50.4450653, "lng": 30.5184283},
+            "cityCode":0,
+            "phones": [
+                "+380967208280"
+            ]
+        },
+        {
+            "id":"000000003",
+            "name":"RALPH LAUREN HOME",
+            "address":"SADY PEREMOGY, 4 FLOOR 10 APRIL SQUARE ODESA, 65009, UKRAINE",
+            "position": {"lat": 46.4398273, "lng": 30.7558662},
+            "cityCode":1,
+            "phones": [
+                "+380487405944"
+            ]
+        },
+        {
+            "id":"000000006",
+            "name":"RALPH LAUREN HOME & DR. VRANJES",
+            "address":"20 KATERYNYNSKA STR. ODESA, 65026, UKRAINE",
+            "position": {"lat": 46.4830396, "lng": 30.7358954},
+            "cityCode":1,
+            "phones": [
+                "+380487013713"
+            ]
+        },
+        {
+            "id":"000000007",
+            "name":"DR. VRANJES",
+            "address":"GULLIVER, 1 FLOOR 1A SPORTYVNA SQUARE KYIV, 01023, UKRAINE",
+            "position": {"lat": 50.4388701, "lng": 30.5208778},
+            "cityCode":0,
+            "phones": [
+                "+380681805940"
+            ]
+        }
+    ]
+}
